@@ -1,7 +1,10 @@
 ---
 Title: "AquaLens"  
 Subtitle: "Enhancing the value of all collected data"  
-Author: "Berent Å. S. Lunde"  "Sverre J. Bjørke"  "Jon Dag F. Yksnøy"
+Author: 
+- Berent Ånund Strømnes Lunde
+- Sverre Johann Bjørke
+- Jon Dag Flølo Yksnøy
 date: today
 ---
 
