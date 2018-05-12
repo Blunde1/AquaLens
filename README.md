@@ -5,9 +5,5 @@ Author:
 - Berent Ånund Strømnes Lunde
 - Sverre Johann Bjørke
 - Jon Dag Flølo Yksnøy
-date: today
+date: "May 8, 2018"
 ---
-
-
-# AquaLens
-Aquahack2018
