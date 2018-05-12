@@ -1,7 +1,7 @@
 ---
-title: AquaLens  
-subtitle: Enhancing the value of all collected data
-author: Berent Lunde
+title: "AquaLens"  
+subtitle: "Enhancing the value of all collected data"  
+author: "Berent Lunde"  
 date: today
 ---
 
